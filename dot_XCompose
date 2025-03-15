@@ -1,0 +1,4 @@
+include "%L"
+
+<Multi_key><minus><p>:"₽"
+<Multi_key> <apostrophe> <apostrophe> : "́" U0301 # COMBINING ACUTE ACCENT
